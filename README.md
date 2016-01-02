@@ -9,7 +9,9 @@ imsglink.{c,h} is an addition, and exposes a high-level API integrated with libe
 
 ## Examples
 
+Using imsglink wrapper with libevent : [tests/imsglink_sendrecv.c](tests/imsglink_sendrecv.c)
 
+Using imsg directly : [tests/sendmsg.c](tests/sendmsg.c)
 
 ## Install
 
